@@ -2,7 +2,7 @@
 
 **Forward Deployed Engineer Intern @ Pawl · Dual Master's in Management & FinTech @ IE University, Madrid**
 
-AI product development | Python · SQL · TypeScript | Building crisis-navigation tech with real-time data
+AI product development | Python · SQL · TypeScript | AI, data and security projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulhgeorge)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulhgeorge@student.ie.edu)
@@ -14,6 +14,7 @@ AI product development | Python · SQL · TypeScript | Building crisis-navigatio
 - **Problem:** civilians in conflict zones lack a simple, live view of hazards and safe routes, and NGOs lack a shared picture of the situation.
 - **Two modes:** a mobile Field Mode (map, reports, safe routes, SOS) and a desktop Intelligence Mode (3D globe, flights, seismic data, satellites).
 - **Data:** ACLED conflict events, OpenSky flights, USGS seismic activity, Celestrak satellites, OSRM danger-weighted routing, Supabase Realtime community reports.
+- **My part:** Built the RAG pipeline: ingestion, chunking, Gemini embeddings, vector store, and hallucination guardrails.
 - **Run it:** the [repo README](https://github.com/paulhgeorge-creator/sentinel#quick-start) has a quick start.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -21,6 +22,11 @@ AI product development | Python · SQL · TypeScript | Building crisis-navigatio
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+## More projects
+
+- [Investment Risk Dashboard](https://github.com/paulhgeorge-creator/personal-finance-dashboard): compare risk, volatility, and returns across savings, bonds, index funds, and crypto (Next.js, TypeScript, Tailwind)
+- [Intrusion Detection System](https://github.com/paulhgeorge-creator/Traditionally-Coded-Intrusion-Detection-System-1.0): signature-based packet sniffer written from scratch (Python)
 
 ## Toolkit
 
@@ -34,9 +40,10 @@ AI product development | Python · SQL · TypeScript | Building crisis-navigatio
 
 ## Now
 
-- 🔭 Working on AI product and data-quality systems as a Forward Deployed Engineer Intern at Pawl
-- 🌱 Studying machine learning for product systems and digital banking at IE University
-- 🔐 Learning more about cybersecurity and detection engineering
+- 🔭 Building AI products and data-quality systems as a Forward Deployed Engineer Intern at Pawl
+- 🎓 Studying for my Master's in Management & FinTech at IE University
+- 🎤 Organizing a hackathon and speaker series through Google Developer Group (GDG)
+- 📈 CFA Level 1 candidate
 
 ## GitHub stats
 
