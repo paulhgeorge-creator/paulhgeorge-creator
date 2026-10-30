@@ -23,13 +23,13 @@ const paul = {
 
 ## ◆ Competitions
 
-| | Competition | Result |
-|:-:|---|---|
-| 🥇 | **Citi Corporate Banking Game** | 1st place |
-| 🥈 | **IE Venture Mind AI Hackathon** | 2nd of 150+ MBA, PhD and undergraduate participants. Individual: built and pitched a defensible business case to a panel of active investors |
-| 🥈 | **Cursor AI Hackathon** | 2nd of 180+ participants. Shipped a working product in 24h → [Sentinel](https://github.com/paulhgeorge-creator/sentinel) |
-| 🥈 | **AstraZeneca Tech Lab Challenge** | 2nd of 20+ teams (120+ participants) in a tech consulting contest |
-| 🏁 | **Google Hackathon** | Finalist: 1 of 10 teams (from 40+) selected to pitch at Google HQ → [Arcadia](https://github.com/paulhgeorge-creator/Arcadia) |
+| Competition | Result |
+|---|---|
+| **Citi Corporate Banking Game** | 1st place |
+| **IE Venture Mind AI Hackathon** | 2nd of 150+ MBA, PhD and undergraduate participants. Individual: built and pitched a defensible business case to a panel of active investors |
+| **Cursor AI Hackathon** | 2nd of 180+ participants. Shipped a working product in 24h → [Sentinel](https://github.com/paulhgeorge-creator/sentinel) |
+| **AstraZeneca Tech Lab Challenge** | 2nd of 20+ teams (120+ participants) in a tech consulting contest |
+| **Google Hackathon** | Finalist: 1 of 10 teams (from 40+) selected to pitch at Google HQ → [Arcadia](https://github.com/paulhgeorge-creator/Arcadia) |
 
 ## ◆ Featured — Sentinel
 
@@ -38,7 +38,7 @@ const paul = {
 <td width="62%" valign="top">
 
 **Real-time crisis navigation for civilians in conflict zones.**
-🥈 2nd place, IE University Cursor AI Hackathon, March 2026 (built with a team).
+2nd place, IE University Cursor AI Hackathon, March 2026 (built with a team).
 
 - **Field Mode** (mobile): live hazard map, community reports, danger-weighted safe routes, SOS
 - **Intelligence Mode** (desktop): 3D globe with flights, seismic activity and satellites
@@ -67,7 +67,7 @@ Civilians lack a simple live view of hazards and safe routes. NGOs lack a shared
 <tr>
 <td width="50%" valign="top">
 
-### [📊 Investment Risk Dashboard](https://github.com/paulhgeorge-creator/personal-finance-dashboard)
+### [Investment Risk Dashboard](https://github.com/paulhgeorge-creator/personal-finance-dashboard)
 Compare risk, volatility and returns across savings, bonds, index funds and crypto.
 
 `Next.js` `TypeScript` `Tailwind` `shadcn/ui`
@@ -75,7 +75,7 @@ Compare risk, volatility and returns across savings, bonds, index funds and cryp
 </td>
 <td width="50%" valign="top">
 
-### [🛡️ Intrusion Detection System](https://github.com/paulhgeorge-creator/Traditionally-Coded-Intrusion-Detection-System-1.0)
+### [Intrusion Detection System](https://github.com/paulhgeorge-creator/Traditionally-Coded-Intrusion-Detection-System-1.0)
 Signature-based packet sniffer written from scratch for security practice.
 
 `Python` `Networking` `Security`
@@ -90,13 +90,18 @@ Signature-based packet sniffer written from scratch for security practice.
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Tech Officer · Google Developer Group
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gdg-dark.png">
+  <img src="assets/gdg-light.png" alt="Google Developer Groups" height="28">
+</picture>
+
+### Tech Officer · Google Developer Group
 Organizing a hackathon and speaker series for the IE tech community.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 IE Planet Fellow
+### IE Planet Fellow
 Deployed LLM and process-mining automation connecting 500+ alumni with active VC and angel investors.
 
 </td>
@@ -115,7 +120,7 @@ Also: **Tableau** · **Excel** · **SQL** · **RAG / LLM pipelines**
 
 | | |
 |---|---|
-| 🎓 **IE University**, Madrid | Dual Master's in Management & Financial Technology · AI concentration · 2025–2027 |
-| 🎓 **Syracuse University** | BA&S, International Relations & Global Political Economics · 2020–2024 |
+| **IE University**, Madrid | Dual Master's in Management & Financial Technology · AI concentration · 2025–2027 |
+| **Syracuse University** | BA&S, International Relations & Global Political Economics · 2020–2024 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:818CF8,100:C084FC&height=4&section=footer" width="100%" alt="">
