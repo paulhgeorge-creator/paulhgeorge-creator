@@ -1,56 +1,90 @@
-# Hi, I'm Paul George 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Paul George — Forward Deployed Engineer · AI · FinTech · Security" src="assets/banner-light.svg" width="100%">
+</picture>
 
-**Forward Deployed Engineer Intern @ Pawl · Dual Master's in Management & FinTech @ IE University, Madrid**
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulhgeorge"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"></a>
+  <a href="mailto:paulhgeorge@student.ie.edu"><img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=818CF8" alt="Email"></a>
+  <a href="https://github.com/paulhgeorge-creator/sentinel"><img src="https://img.shields.io/badge/Featured-Sentinel-0B0F17?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=0B0F17&color=1F2937" alt="Featured: Sentinel"></a>
+</p>
 
-AI product development | Python · SQL · TypeScript | AI, data and security projects
+```ts
+const paul = {
+  role:      "Forward Deployed Engineer Intern @ Pawl",
+  studying:  "Dual Master's, Management & FinTech @ IE University (AI concentration)",
+  focus:     ["AI product development", "data quality", "security"],
+  stack:     ["Python", "SQL", "TypeScript"],
+  sideQuest: "CFA Level I · organizing a hackathon + speaker series with GDG",
+};
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulhgeorge)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulhgeorge@student.ie.edu)
+## ◆ Featured — Sentinel
 
-## Featured project: Sentinel
+<table>
+<tr>
+<td width="62%" valign="top">
 
-> Real-time crisis navigation for civilians in conflict zones. Built with a team at the IE University Cursor AI Hackathon, March 2026.
+**Real-time crisis navigation for civilians in conflict zones.**
+Built with a team at the IE University Cursor AI Hackathon, March 2026.
 
-- **Problem:** civilians in conflict zones lack a simple, live view of hazards and safe routes, and NGOs lack a shared picture of the situation.
-- **Two modes:** a mobile Field Mode (map, reports, safe routes, SOS) and a desktop Intelligence Mode (3D globe, flights, seismic data, satellites).
-- **Data:** ACLED conflict events, OpenSky flights, USGS seismic activity, Celestrak satellites, OSRM danger-weighted routing, Supabase Realtime community reports.
-- **My part:** Built the RAG pipeline: ingestion, chunking, Gemini embeddings, vector store, and hallucination guardrails.
-- **Run it:** the [repo README](https://github.com/paulhgeorge-creator/sentinel#quick-start) has a quick start.
+- **Field Mode** (mobile): live hazard map, community reports, danger-weighted safe routes, SOS
+- **Intelligence Mode** (desktop): 3D globe with flights, seismic activity and satellites
+- **Data:** ACLED · OpenSky · USGS · Celestrak · OSRM · Supabase Realtime
+- **My part:** the RAG pipeline: ingestion, chunking, Gemini embeddings, vector store, hallucination guardrails
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+[**→ Quick start**](https://github.com/paulhgeorge-creator/sentinel#quick-start)
 
-## More projects
+</td>
+<td width="38%" valign="top">
 
-- [Investment Risk Dashboard](https://github.com/paulhgeorge-creator/personal-finance-dashboard): compare risk, volatility, and returns across savings, bonds, index funds, and crypto (Next.js, TypeScript, Tailwind)
-- [Intrusion Detection System](https://github.com/paulhgeorge-creator/Traditionally-Coded-Intrusion-Detection-System-1.0): signature-based packet sniffer written from scratch (Python)
+**Problem**
+Civilians lack a simple live view of hazards and safe routes. NGOs lack a shared picture of the situation.
 
-## Toolkit
+**Stack**
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,postgres&perline=5" alt="Next.js, TypeScript, Tailwind, Supabase, PostgreSQL">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</td>
+</tr>
+</table>
 
-## Now
+## ◆ More builds
 
-- 🔭 Building AI products and data-quality systems as a Forward Deployed Engineer Intern at Pawl
-- 🎓 Studying for my Master's in Management & FinTech at IE University
-- 🎤 Organizing a hackathon and speaker series through Google Developer Group (GDG)
-- 📈 CFA Level 1 candidate
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## GitHub stats
+### [📊 Investment Risk Dashboard](https://github.com/paulhgeorge-creator/personal-finance-dashboard)
+Compare risk, volatility and returns across savings, bonds, index funds and crypto.
 
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulhgeorge-creator&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulhgeorge-creator&layout=compact&hide_border=true)
+`Next.js` `TypeScript` `Tailwind` `shadcn/ui`
 
-## Background
+</td>
+<td width="50%" valign="top">
 
-- **IE Business School & School of Science & Technology**, Madrid: Dual Master's in Management and Financial Technology (2025–2027), concentration in Artificial Intelligence
-- **Syracuse University:** BA&S in International Relations and Global Political Economics (2020–2024)
+### [🛡️ Intrusion Detection System](https://github.com/paulhgeorge-creator/Traditionally-Coded-Intrusion-Detection-System-1.0)
+Signature-based packet sniffer written from scratch for security practice.
+
+`Python` `Networking` `Security`
+
+</td>
+</tr>
+</table>
+
+## ◆ Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,java,postgres,nextjs,tailwind,supabase,git,vscode&theme=dark" alt="Python, TypeScript, Java, PostgreSQL, Next.js, Tailwind, Supabase, Git, VS Code">
+</p>
+
+Also: **Tableau** · **Excel** · **SQL** · **RAG / LLM pipelines**
+
+## ◆ Background
+
+| | |
+|---|---|
+| 🎓 **IE University**, Madrid | Dual Master's in Management & Financial Technology · AI concentration · 2025–2027 |
+| 🎓 **Syracuse University** | BA&S, International Relations & Global Political Economics · 2020–2024 |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:818CF8,100:C084FC&height=4&section=footer" width="100%" alt="">
