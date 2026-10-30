@@ -17,7 +17,6 @@ const paul = {
   stack:     ["Python", "SQL", "TypeScript"],
   roles:     ["Tech Officer @ Google Developer Group", "IE Planet Fellow"],
   podiums:   5,
-  sideQuest: "CFA Level I",
 };
 ```
 
@@ -30,6 +29,35 @@ const paul = {
 | **Cursor AI Hackathon** | 2nd of 180+ participants. Shipped a working product in 24h → [Sentinel](https://github.com/paulhgeorge-creator/sentinel) |
 | **AstraZeneca Tech Lab Challenge** | 2nd of 20+ teams (120+ participants) in a tech consulting contest |
 | **Google Hackathon** | Finalist: 1 of 10 teams (from 40+) selected to pitch at Google HQ → [Arcadia](https://github.com/paulhgeorge-creator/Arcadia) |
+
+## ◆ Leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gdg-dark.png">
+  <img src="assets/gdg-light.png" alt="Google Developer Groups" height="64">
+</picture>
+
+### Tech Officer · Google Developer Group
+Organizing a hackathon and speaker series for the IE tech community.
+
+</td>
+<td width="50%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ie-dark.png">
+  <img src="assets/ie-light.png" alt="IE Entrepreneurship" height="64">
+</picture>
+
+### IE Planet Fellow
+Deployed LLM and process-mining automation connecting 500+ alumni with active VC and angel investors.
+
+</td>
+</tr>
+</table>
 
 ## ◆ Featured — Sentinel
 
@@ -79,30 +107,6 @@ Compare risk, volatility and returns across savings, bonds, index funds and cryp
 Signature-based packet sniffer written from scratch for security practice.
 
 `Python` `Networking` `Security`
-
-</td>
-</tr>
-</table>
-
-## ◆ Leadership
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/gdg-dark.png">
-  <img src="assets/gdg-light.png" alt="Google Developer Groups" height="28">
-</picture>
-
-### Tech Officer · Google Developer Group
-Organizing a hackathon and speaker series for the IE tech community.
-
-</td>
-<td width="50%" valign="top">
-
-### IE Planet Fellow
-Deployed LLM and process-mining automation connecting 500+ alumni with active VC and angel investors.
 
 </td>
 </tr>
