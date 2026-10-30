@@ -15,9 +15,21 @@ const paul = {
   studying:  "Dual Master's, Management & FinTech @ IE University (AI concentration)",
   focus:     ["AI product development", "data quality", "security"],
   stack:     ["Python", "SQL", "TypeScript"],
-  sideQuest: "CFA Level I · organizing a hackathon + speaker series with GDG",
+  roles:     ["Tech Officer @ Google Developer Group", "IE Planet Fellow"],
+  podiums:   5,
+  sideQuest: "CFA Level I",
 };
 ```
+
+## ◆ Competitions
+
+| | Competition | Result |
+|:-:|---|---|
+| 🥇 | **Citi Corporate Banking Game** | 1st place |
+| 🥈 | **IE Venture Mind AI Hackathon** | 2nd of 150+ MBA, PhD and undergraduate participants. Individual: built and pitched a defensible business case to a panel of active investors |
+| 🥈 | **Cursor AI Hackathon** | 2nd of 180+ participants. Shipped a working product in 24h → [Sentinel](https://github.com/paulhgeorge-creator/sentinel) |
+| 🥈 | **AstraZeneca Tech Lab Challenge** | 2nd of 20+ teams (120+ participants) in a tech consulting contest |
+| 🏁 | **Google Hackathon** | Finalist: 1 of 10 teams (from 40+) selected to pitch at Google HQ → [Arcadia](https://github.com/paulhgeorge-creator/Arcadia) |
 
 ## ◆ Featured — Sentinel
 
@@ -26,7 +38,7 @@ const paul = {
 <td width="62%" valign="top">
 
 **Real-time crisis navigation for civilians in conflict zones.**
-Built with a team at the IE University Cursor AI Hackathon, March 2026.
+🥈 2nd place, IE University Cursor AI Hackathon, March 2026 (built with a team).
 
 - **Field Mode** (mobile): live hazard map, community reports, danger-weighted safe routes, SOS
 - **Intelligence Mode** (desktop): 3D globe with flights, seismic activity and satellites
@@ -67,6 +79,25 @@ Compare risk, volatility and returns across savings, bonds, index funds and cryp
 Signature-based packet sniffer written from scratch for security practice.
 
 `Python` `Networking` `Security`
+
+</td>
+</tr>
+</table>
+
+## ◆ Leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Tech Officer · Google Developer Group
+Organizing a hackathon and speaker series for the IE tech community.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 IE Planet Fellow
+Deployed LLM and process-mining automation connecting 500+ alumni with active VC and angel investors.
 
 </td>
 </tr>

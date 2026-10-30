@@ -65,5 +65,9 @@
       <rect width="240" height="40" rx="20" fill="#FFFFFF" stroke="#D1D5DB"/>
       <text x="24" y="26" class="mono" font-size="14" fill="#1F2937">📈 CFA Level I candidate</text>
     </g>
+    <g transform="translate(900 228)">
+      <rect width="240" height="40" rx="20" fill="#FFFFFF" stroke="#D1D5DB"/>
+      <text x="24" y="26" class="mono" font-size="14" fill="#1F2937">🏆 5× competition podiums</text>
+    </g>
   </g>
 </svg>
