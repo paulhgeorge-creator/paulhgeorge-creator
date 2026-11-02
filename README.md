@@ -16,7 +16,6 @@ const paul = {
   focus:     ["AI product development", "data quality", "security"],
   stack:     ["Python", "SQL", "TypeScript"],
   roles:     ["Tech Officer @ Google Developer Group", "IE Planet Fellow"],
-  podiums:   5,
 };
 ```
 
