@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulhgeorge"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/paul-george-psg/"><img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"></a>
   <a href="mailto:paulhgeorge@student.ie.edu"><img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=818CF8" alt="Email"></a>
   <a href="https://github.com/paulhgeorge-creator/sentinel"><img src="https://img.shields.io/badge/Featured-Sentinel-0B0F17?style=for-the-badge&logo=github&logoColor=C084FC&labelColor=0B0F17&color=1F2937" alt="Featured: Sentinel"></a>
 </p>
