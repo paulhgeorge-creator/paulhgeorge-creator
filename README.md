@@ -25,7 +25,7 @@ const paul = {
 |---|---|
 | **Citi Corporate Banking Game** | 1st place |
 | **IE Venture Mind AI Hackathon** | 2nd of 150+ MBA, PhD and undergraduate participants. Individual: built and pitched a defensible business case to a panel of active investors |
-| **Cursor AI Hackathon** | 2nd of 180+ participants. Shipped a working product in 24h → [Sentinel](https://github.com/paulhgeorge-creator/sentinel) |
+| **Cursor AI Hackathon** | 2nd of 180+ participants (winner of a backpack). Shipped a working product in 24h → [Sentinel](https://github.com/paulhgeorge-creator/sentinel) |
 | **AstraZeneca Tech Lab Challenge** | 2nd of 20+ teams (120+ participants) in a tech consulting contest → [SEIL](https://github.com/jacksangster03/seil-prototype) |
 | **Google Hackathon** | Finalist: 1 of 10 teams (from 40+) selected to pitch at Google HQ → [Arcadia](https://github.com/paulhgeorge-creator/Arcadia) |
 
